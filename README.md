@@ -1,15 +1,66 @@
-## Hi there 👋
 
-**magdiel2024/magdiel2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, boas vindas ao meu perfil🤟
+Meu nome é Magdiel tenho 17 anos e resido na cidade de Quatá SP
+Estou trabalhando na plataforma ALURA 
+Estou me desenvolvendo na linguagem JavaScripthttps://editor.p5js.org/00001222827864sp/full/7ts6xz9HJ
 
-Here are some ideas to get you started:
+### https://editor.p5js.org/00001222827864sp/full/7ts6xz9HJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**magdiel2024/magdiel2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
